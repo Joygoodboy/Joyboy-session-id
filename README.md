@@ -1,8 +1,8 @@
-# *MADE WITH 🤍 BY MAHER ZUBAIR*
+# *𝑴𝑨𝑫𝑬 𝑩𝒀 𝑱𝑶𝒀𝑩𝑶𝒀*
 
 
 ## *NOTE*
-- *SESSION ID GENERATOR FOR X-ASENA AND SECKTOR MD BASED BOTS*
+- *𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐈𝐃 𝐅𝐎𝐑 𝐀𝐋𝐋 𝐕𝐄𝐑𝐒𝐈𝐎𝐍𝐒 𝐎𝐅 𝐌𝐈𝐑𝐀𝐆𝐄 𝐌𝐃 𝐁𝐎𝐓𝐒*
 - *IN ORDER TO USE PAIR CODE AND SESSION ID'S YOU HAVE TO USE*
 - *"maher-zubair-baileys": "^6.6.5" OR "@whiskeysockets/baileys": "^6.5.0" IN YOUR BOT*
 - *OTHER-WISE THE PAIR CODE WILL NOT WORK AND NOR SESSIOND ID'S*
